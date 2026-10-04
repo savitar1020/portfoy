@@ -1,15 +1,13 @@
-# Portföy
+# Portfolio
 
-Fatih Arda Yıldız. Ankara. Üniversite yok. Askerlik 2030’a tecilli.
+Projects by Fatih Arda Yıldız.
 
-Burada iki şey durur: kendi yol haritamız ve iş başvurusunda açılabilir projeler.
+Small C# and web applications built to show practical work: data entry, SQL, and a browser interface.
 
-## Yol
+## Projects
 
-C# ve web. Yeni dil yok.
+Projects will be added here as separate folders.
 
-1. SQL ve C# ile küçük bir kayıt programı.
-2. Aynı kaydı tarayıcıda açan bir sayfa: giriş, liste, silme.
-3. Başvurulacak ilana göre tek ek parça. WordPress, Unity veya yeni dil yok.
+## Stack
 
-Bitmiş işler bu deponun altında ayrı klasörlerde durur.
+C#, HTML, CSS, JavaScript, MySQL.
